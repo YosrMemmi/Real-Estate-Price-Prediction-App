@@ -1,0 +1,1 @@
+{"data": {"raw": {"full": "data/ames-housing-dojo-for-ml.csv", "eda": "data/ames-housing-dojo-for-ml-eda.csv"}, "ml": {"train": "data/training-data.joblib", "test": "data/testing-data.joblib"}}, "models": {"linear_regression": "models/linear_regression/linreg.joblib", "random_forest": "models/random_forest/rf_reg.joblib"}, "images": {"banner": "images/app-banner.png"}}
